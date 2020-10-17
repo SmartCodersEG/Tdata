@@ -1,0 +1,81 @@
+{
+   "version": "1",
+   "users": [
+      {
+         "categories": [
+            "اقتباسات و حالات و تصاميم"
+         ],
+         "description": "قناة مختصه بالاقتباسات و الصور الجميله",
+         "favorited": false,
+         "id": "1",
+         "lastUpdatedOn": 20201017,
+         "name": "غيمه",
+         "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/1.jpg",
+		 "linkUrl": "https://t.me/cloud_90s",
+         "proUser": false,
+         "type": "قناة تليجرام"
+      },
+	  
+	      {
+         "categories": [
+            "تعليم و تدريب"
+         ],
+         "description": "قناة لطلبة القطاع الطبي هدفها تعليمهم على قرائة الروشتات المكتوبه",
+         "favorited": false,
+         "id": "2",
+         "lastUpdatedOn": 20201017,
+         "name": "Ugly Prescriptions",
+         "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/2.jpg",
+		 "linkUrl": "https://t.me/uglyprescribtions",
+         "proUser": false,
+         "type": "قناة تليجرام"
+      },
+	  
+	      {
+         "categories": [
+            "افلام و مسلسلات"
+         ],
+         "description": "قناة لنشر جديد الافلام و المسلسلات",
+         "favorited": false,
+         "id": "3",
+         "lastUpdatedOn": 20201017,
+         "name": "SE Channel",
+         "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/3.jpg",
+		 "linkUrl": "https://t.me/joinchat/AAAAAEV6C3XkM3",
+         "proUser": false,
+         "type": "جروب تليجرام"
+      },
+	  
+	      {
+         "categories": [
+            "ديكور و اثاث"
+         ],
+         "description": "قناة تهتم بالديكورات و التصاميم الداخليه و الخارجيه",
+         "favorited": false,
+         "id": "4",
+         "lastUpdatedOn": 20201017,
+         "name": "M&M DESIG",
+         "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/4.jpg",
+		 "linkUrl": "https://t.me/mo7mdm92",
+         "proUser": false,
+         "type": "قناة تليجرام"
+      },
+	  
+	      {
+         "categories": [
+            "اقتباسات و حالات و تصاميم"
+         ],
+         "description": "فقط عانق من يتقبل عالمك الاسود",
+         "favorited": false,
+         "id": "5",
+         "lastUpdatedOn": 20201017,
+         "name": "𝑀𝑈𝑆𝐴𝐵 𝐴𝐿𝑀𝑈𝑆𝐵𝐴𝐻",
+         "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/5.jpg",
+		 "linkUrl": "https://t.me/Dejected02",
+         "proUser": false,
+         "type": "قناة تليجرام"
+      }
+    
+
+	]
+}
