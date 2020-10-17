@@ -1,5 +1,5 @@
 {
-   "version": "2",
+   "version": "3",
    "users": [
       {
          "categories": [
@@ -27,7 +27,7 @@
          "name": "Ugly Prescriptions",
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/2.jpg",
 		 "linkUrl": "https://t.me/uglyprescribtions",
-         "proUser": false,
+         "proUser": true,
          "type": "قناة تليجرام"
       },
 	 
@@ -59,6 +59,21 @@
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/5.jpg",
 		 "linkUrl": "https://t.me/Dejected02",
          "proUser": false,
+         "type": "قناة تليجرام"
+      },
+	  
+	     {
+         "categories": [
+            "دعايه و اعلانات"
+         ],
+         "description": "اعرض اعلانك او منتجك على فناتنا مجانا و احصل على مهتمين حقيقيين فى مجالك",
+         "favorited": false,
+         "id": "6",
+         "lastUpdatedOn": 20201017,
+         "name": "ADLINE",
+         "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/6.jpg",
+		 "linkUrl": "https://t.me/AdLine_EG",
+         "proUser": true,
          "type": "قناة تليجرام"
       }
     
