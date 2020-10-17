@@ -1,5 +1,5 @@
 {
-   "version": "1",
+   "version": "2",
    "users": [
       {
          "categories": [
@@ -30,21 +30,7 @@
          "proUser": false,
          "type": "قناة تليجرام"
       },
-	  
-	      {
-         "categories": [
-            "افلام و مسلسلات"
-         ],
-         "description": "قناة لنشر جديد الافلام و المسلسلات",
-         "favorited": false,
-         "id": "3",
-         "lastUpdatedOn": 20201017,
-         "name": "SE Channel",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/3.jpg",
-		 "linkUrl": "https://t.me/joinchat/AAAAAEV6C3XkM3",
-         "proUser": false,
-         "type": "جروب تليجرام"
-      },
+	 
 	  
 	      {
          "categories": [
