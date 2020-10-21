@@ -1,5 +1,5 @@
 {
-   "version": "6",
+   "version": "7",
    "users": [
       {
          "categories": [
@@ -83,12 +83,12 @@
          ],
          "description": "L & N مكتب لمنتجات الجلود عالية الجوده جمله و قطاعى اسعار خاصه لطلبات الجمله",
          "id": "7",
-	 "lastUpdatedOn": 20201021,
+		 "favorited": false,
+	     "lastUpdatedOn": 20201021,
          "name": "مكتب L& N",
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/7.jpg",
 		 "linkUrl": "https://t.me/joinchat/AAAAAE3kpg_rWDUKGBzglg",
          "proUser": true,
-		 "favorited": false,
          "type": "قناة تليجرام"
       },
 	  
@@ -98,12 +98,12 @@
          ],
          "description": "بوستات و حالات واتس و حالات دينيه و كل اللى بتدور عليه",
          "id": "8",
-	 "lastUpdatedOn": 20201021,
+		 "favorited": false,
+	     "lastUpdatedOn": 20201021,
          "name": "Blue Heart",
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/8.jpg",
 		 "linkUrl": "https://t.me/TheAr705",
          "proUser": true,
-		 "favorited": false,
          "type": "قناة تليجرام"
       }  
 
