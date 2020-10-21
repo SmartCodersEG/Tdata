@@ -1,5 +1,5 @@
 {
-   "version": "7",
+   "version": "8",
    "users": [
       {
          "categories": [
@@ -88,7 +88,7 @@
          "name": "مكتب L& N",
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/7.jpg",
 		 "linkUrl": "https://t.me/joinchat/AAAAAE3kpg_rWDUKGBzglg",
-         "proUser": true,
+         "proUser": false,
          "type": "قناة تليجرام"
       },
 	  
@@ -103,7 +103,7 @@
          "name": "Blue Heart",
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/8.jpg",
 		 "linkUrl": "https://t.me/TheAr705",
-         "proUser": true,
+         "proUser": false,
          "type": "قناة تليجرام"
       }  
 
