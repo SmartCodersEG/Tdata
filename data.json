@@ -1,5 +1,5 @@
 {
-   "version": "10",
+   "version": "11",
    "users": [
       {
          "categories": [
@@ -103,7 +103,7 @@
          "name": "Blue Heart",
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/Pics/8.jpg",
 		 "linkUrl": "https://t.me/TheAr705",
-         "proUser": false,
+         "proUser": true,
          "type": "قناة تليجرام"
       }  
 
