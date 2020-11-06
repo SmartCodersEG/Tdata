@@ -1,5 +1,5 @@
 {
-   "version": "3",
+   "version": "4",
    "users": [
       {
          "categories": [
@@ -13,7 +13,7 @@
          "photo": "https://play-lh.googleusercontent.com/gHB7W9KVgHITXx5aS9_lW1kd5TBDrsuuP96Enmb89kcjwUZhJlsythBlQtNEfbUlgdI=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android",
          "proUser": false,
-         "type": "99MB"
+         "type": "84MB"
       },
 	  
 	  {
@@ -28,7 +28,7 @@
          "photo": "https://play-lh.googleusercontent.com/vV_N0OWz8sWI8JrryHdFJDWu6om_6BO5ceSJeaZ7iMJQmBecVFviyfW6u6eNZhyb=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.madfingergames.legends",
          "proUser": false,
-         "type": "63MB"
+         "type": "1GB"
       },
 	  {
          "categories": [
@@ -56,7 +56,7 @@
          "photo": "https://play-lh.googleusercontent.com/dLbco3uj_xuQr44LaKPLbSCQ4MKvtLsOKo--K_fh3pe3rcqt6E18cfxiOLUenl1w5w=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.yodo1.hanglinerescue",
          "proUser": false,
-         "type": "56MB"
+         "type": "158MB"
       },
 	  {
          "categories": [
@@ -70,7 +70,7 @@
          "photo": "https://play-lh.googleusercontent.com/pcBMZtfdXljUaw95XXNup_Mx6WMcbKyNvBZYtG33dF2CVYAqouETja5zn-pCUbc_Ow=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.pikpok.dr2.play",
          "proUser": true,
-         "type": "57MB"
+         "type": "1.4GB"
       },
 	  {
          "categories": [
@@ -98,7 +98,7 @@
          "photo": "https://play-lh.googleusercontent.com/uUSl2g8iyOjaGrCBg9Ta9e2Yq8Ba6NFTam-Abj2ihkeFzb1al5e6TLJBbd-9CK83ng=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.atypicalgames.radiationislandfree",
          "proUser": false,
-         "type": "28MB"
+         "type": "1.9GB"
       },
 	  {
          "categories": [
@@ -112,7 +112,7 @@
          "photo": "https://play-lh.googleusercontent.com/SCs6QbTTvOCj-mfVX4nOt32DolL6h7tQWVOlfnkYxVgwcn3uxeuH2JWIQHmpcGBdlKQ=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.redbull.moto",
          "proUser": false,
-         "type": "89MB"
+         "type": "1.2GB"
       },
 	  {
          "categories": [
@@ -126,7 +126,7 @@
          "photo": "https://play-lh.googleusercontent.com/weju3k4GoZeSnILLw4KbkXMUrh5g5xHoKHsmCT_u1bUJQroHSAk88R-xhC_9WBYh9ZeK=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.netease.mrzhna",
          "proUser": false,
-         "type": "73MB"
+         "type": "3.6GB"
       },
 	  {
          "categories": [
