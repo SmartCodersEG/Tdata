@@ -1,5 +1,5 @@
 {
-   "version": "2",
+   "version": "3",
    "users": [
       {
          "categories": [
@@ -66,7 +66,7 @@
 		 "favorited": false,
          "lastUpdatedOn": 2020116,
          "description": "ourney through the zombie apocalypse in a race to save your family. Arm yourself with an arsenal of powerful weapons and do whatever it takes to survive",
-         "name": "Into the Dead 2 - Zombie Survival",
+         "name": "Into the Dead - Zombie Survival",
          "photo": "https://play-lh.googleusercontent.com/pcBMZtfdXljUaw95XXNup_Mx6WMcbKyNvBZYtG33dF2CVYAqouETja5zn-pCUbc_Ow=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.pikpok.dr2.play",
          "proUser": true,
