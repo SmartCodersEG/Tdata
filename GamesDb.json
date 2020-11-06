@@ -1,5 +1,5 @@
 {
-   "version": "1",
+   "version": "2",
    "users": [
       {
          "categories": [
@@ -66,7 +66,7 @@
 		 "favorited": false,
          "lastUpdatedOn": 2020116,
          "description": "ourney through the zombie apocalypse in a race to save your family. Arm yourself with an arsenal of powerful weapons and do whatever it takes to survive",
-         "name": "Into the Dead 2: Zombie Survival",
+         "name": "Into the Dead 2 - Zombie Survival",
          "photo": "https://play-lh.googleusercontent.com/pcBMZtfdXljUaw95XXNup_Mx6WMcbKyNvBZYtG33dF2CVYAqouETja5zn-pCUbc_Ow=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.pikpok.dr2.play",
          "proUser": true,
@@ -93,7 +93,7 @@
 		 "id": "7",
 		 "favorited": false,
          "lastUpdatedOn": 2020116,
-         "description": "",
+         "description": "Radiation Island is a survival adventure game where you craft your own destiny in a huge open world environment",
          "name": "Radiation Island Free",
          "photo": "https://play-lh.googleusercontent.com/uUSl2g8iyOjaGrCBg9Ta9e2Yq8Ba6NFTam-Abj2ihkeFzb1al5e6TLJBbd-9CK83ng=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.atypicalgames.radiationislandfree",
