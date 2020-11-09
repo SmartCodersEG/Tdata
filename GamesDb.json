@@ -1,5 +1,5 @@
 {
-   "version": "7",
+   "version": "9",
    "users": [
       {
          "categories": [
@@ -327,8 +327,142 @@
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.gdcompany.metalmadness",
          "proUser": false,
          "type": "149MB"
-		}
+		},
+		
+		{
+         "categories": [
+            "Racing"
+         ],
+		 "id": "24",
+		 "favorited": false,
+         "lastUpdatedOn": 2020119,
+         "description": "Get in gear and take on the world’s best, most fearless street auto racer pros to become the next Asphalt Legend",
+         "name": "Asphalt 9: Legends",
+         "photo": "https://play-lh.googleusercontent.com/cQBJ7Jwvz0jex8sL7LjgLId-wOdmMajSZbpC-bzHDhS5uK9Zms0fFsXEVNGvlIUk_g=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM",
+         "proUser": true,
+         "type": "1.9GB"
+		},
+		
+		{
+         "categories": [
+            "Action"
+         ],
+		 "id": "25",
+		 "favorited": false,
+         "lastUpdatedOn": 2020119,
+         "description": "Official CALL OF DUTY® designed exclusively for mobile phones. Play iconic multiplayer maps and modes anytime",
+         "name": "Call of Duty®: Mobile",
+         "photo": "https://play-lh.googleusercontent.com/_vYBCFqUqqy7wXA_LxcnHtgy5VA2dHP4qv2x8PV9-uRzU84KWkn4qj9c7etTAX_6Dzo=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+         "proUser": true,
+         "type": "1.9GB"
+		},
+		
+		{
+         "categories": [
+            "Adventure"
+         ],
+		 "id": "26",
+		 "favorited": false,
+         "lastUpdatedOn": 2020119,
+         "description": "The year is 2030, and war has become the new global norm. In an ongoing conflict for nuclear weapons and the spoils of war",
+         "name": "Disorder",
+         "photo": "https://play-lh.googleusercontent.com/Ly6OWXgtXRfQDQ0p08w1bC820BRSynyWw4-AqGMOM6vvNGX1D68i291pw7CAnqbAdbOW=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.netease.disorder",
+         "proUser": false,
+         "type": "71MB"
+		},
+		
+		{
+         "categories": [
+            "Action"
+         ],
+		 "id": "27",
+		 "favorited": false,
+         "lastUpdatedOn": 2020119,
+         "description": "Inspired by cult classic slasher films, Dead by Daylight™ is a multiplayer (4vs1) horror and action",
+         "name": "DEAD BY DAYLIGHT MOBILE - Multiplayer Horror Game",
+         "photo": "https://play-lh.googleusercontent.com/RydznXCP-FiKUwfhkxVEF9UPRniyS_gzTy2TNiDqUSJ8P6f3DGXC4UKeUTtRSbk5Uw=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.bhvr.deadbydaylight",
+         "proUser": true,
+         "type": "1.6GB"
+		},
+		
+		{
+         "categories": [
+            "Arcade"
+         ],
+		 "id": "28",
+		 "favorited": false,
+         "lastUpdatedOn": 2020119,
+         "description": "Gameloft celebrates its 20th anniversary with a gift for players! Grab hold of the retro fun and blissful nostalgia of 30 iconic Gameloft games",
+         "name": "Gameloft Classics: 20 Years",
+         "photo": "https://play-lh.googleusercontent.com/aOzP32jt8dpX1Uh8tOG45c7t_u4g-IqnTgybMlxEf6Qwzg6P8jOnzinJMvLHJ-IVVDn1=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGLCL",
+         "proUser": true,
+         "type": "79MB"
+		},
+		
+		{
+         "categories": [
+            "Sports"
+         ],
+		 "id": "29",
+		 "favorited": false,
+         "lastUpdatedOn": 2020119,
+         "description": "Dream League Soccer 2021 puts you in the heart of the action with a fresh look and brand new features",
+         "name": "Dream League Soccer 2021",
+         "photo": "https://play-lh.googleusercontent.com/EwZ3JYb8nD0HLul-djQLT4OkIejg1hiFaDYhqLivKXDt362YC0MYKDZCTIT1p4b18ps=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7",
+         "proUser": false,
+         "type": "374MB"
+		},
 
+{
+         "categories": [
+            "Racing"
+         ],
+		 "id": "29",
+		 "favorited": false,
+         "lastUpdatedOn": 2020119,
+         "description": "Get engaged in 3D ultimate race battles, fire rockets and use the protective shield to counter the attack from the enemy",
+         "name": "RACE: Rocket Arena Car Extreme",
+         "photo": "https://play-lh.googleusercontent.com/l8Prnfit9n1hgAXq49ZzwedEzp8mRA3kR_eKhatVMqABFxSZv0rvJBlUL2cYyXrjVH42=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.smokoko.race",
+         "proUser": true,
+         "type": "55MB"
+		},
+		
+		{
+         "categories": [
+            "Role Playing"
+         ],
+		 "id": "29",
+		 "favorited": false,
+         "lastUpdatedOn": 2020119,
+         "description": "From Bethesda Game Studios, the award-winning creators of Skyrim, comes The Elder Scrolls: Blades – a classic dungeon crawler reimagined",
+         "name": "The Elder Scrolls: Blades",
+         "photo": "https://play-lh.googleusercontent.com/MWDjjQwHHHEWz6qsW5yNOQEd4aKEAayJ2k0LmHu4RRDs4lV6VDSiAmYxRJCfyK_sHUc=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.bethsoft.blad",
+         "proUser": false,
+         "type": "89MB"
+		},
+		
+		{
+         "categories": [
+            "Action"
+         ],
+		 "id": "29",
+		 "favorited": false,
+         "lastUpdatedOn": 2020119,
+         "description": "Compete against other players in a real-time PVP fighting. Master unique heroes' talents to dominate the battle! FIGHT NOW",
+         "name": "Shadow Fight Arena",
+         "photo": "https://play-lh.googleusercontent.com/frsdO2USHJZaErIbEidBLHju7qVtXFTU2Ef1-UuV4stcknOjS_j4VapaVqI4zdE0eQ=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.nekki.shadowfightarena",
+         "proUser": true,
+         "type": "887MB"
+		}
 	  
 	  ]
 }
