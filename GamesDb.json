@@ -1,5 +1,5 @@
 {
-   "version": "10",
+   "version": "11",
    "users": [
       {
          "categories": [
@@ -444,7 +444,7 @@
          "description": "From Bethesda Game Studios, the award-winning creators of Skyrim, comes The Elder Scrolls: Blades – a classic dungeon crawler reimagined",
          "name": "The Elder Scrolls: Blades",
          "photo": "https://play-lh.googleusercontent.com/MWDjjQwHHHEWz6qsW5yNOQEd4aKEAayJ2k0LmHu4RRDs4lV6VDSiAmYxRJCfyK_sHUc=s180-rw",
-		 "linkUrl": "https://play.google.com/store/apps/details?id=com.bethsoft.blad",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.bethsoft.blade",
          "proUser": false,
          "type": "89MB"
 		},
