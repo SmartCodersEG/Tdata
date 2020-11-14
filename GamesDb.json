@@ -1,5 +1,5 @@
 {
-   "version": "11",
+   "version": "12",
    "users": [
       {
          "categories": [
@@ -444,7 +444,7 @@
          "description": "From Bethesda Game Studios, the award-winning creators of Skyrim, comes The Elder Scrolls: Blades – a classic dungeon crawler reimagined",
          "name": "The Elder Scrolls: Blades",
          "photo": "https://play-lh.googleusercontent.com/MWDjjQwHHHEWz6qsW5yNOQEd4aKEAayJ2k0LmHu4RRDs4lV6VDSiAmYxRJCfyK_sHUc=s180-rw",
-		 "linkUrl": "https://play.google.com/store/apps/details?id=com.bethsoft.blade",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.bethsoft.blad",
          "proUser": false,
          "type": "89MB"
 		},
@@ -462,7 +462,125 @@
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.nekki.shadowfightarena",
          "proUser": true,
          "type": "887MB"
+		},
+		
+		{
+         "categories": [
+            "Action"
+         ],
+		 "id": "33",
+		 "favorited": false,
+         "lastUpdatedOn": 20201114,
+         "description": "military FPS with animated graphics and simple controls. Command your little soldiers and lead them to victory at any cost",
+         "name": "Trooper Shooter: Critical Assault FPS",
+         "photo": "https://play-lh.googleusercontent.com/jQVnd09FE45_-KN5KZ3X6O8ao7Q0pgVRoi2Dvs4S-_xJbtB9Wfs_UpOsXk5np22P1MA=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.pocket.shooter",
+         "proUser": false,
+         "type": "213MB"
+		},
+		
+		{
+         "categories": [
+            "Racing"
+         ],
+		 "id": "34",
+		 "favorited": false,
+         "lastUpdatedOn": 20201114,
+         "description": "Nightspeed is an arcade racing game featuring a procedural track generation, so every race is differen",
+         "name": "Nightspeed (BETA)",
+         "photo": "https://play-lh.googleusercontent.com/Z0svg5GVrC9YRp_-1HHevEXUjrc8xbb1N2eHOfxxfm36PRsUF9htDpDTOnetbNJLYe8=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.MontefanoStudio.Nightspeed",
+         "proUser": true,
+         "type": "45MB"
+		},
+		
+		{
+         "categories": [
+            "Simulation"
+         ],
+		 "id": "35",
+		 "favorited": false,
+         "lastUpdatedOn": 20201114,
+         "description": "Off-road challenges starting again! We are here with improved physic engine to give you most extreme off-road truck game",
+         "name": "Truck Simulator OffRoad 4",
+         "photo": "https://play-lh.googleusercontent.com/DRrCi6_u7RDsSVIjDYkakKaisav5D3xdj2imVpXeiIPzLBmErBgHHoLgSbVQWlCZXO7J=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.szinteractive.Trucksimulatoroffroad4",
+         "proUser": false,
+         "type": "138MB"
+		},
+		
+		{
+         "categories": [
+            "Arcade"
+         ],
+		 "id": "36",
+		 "favorited": false,
+         "lastUpdatedOn": 20201114,
+         "description": "",
+         "name": "X Survive: Open World Building Sandbox",
+         "photo": "https://play-lh.googleusercontent.com/4cBMSmbloeGZW5yjarI9nKtcZeayTilIa5bqgz6El0udvyE_HEOvX7frCe4Hr3TwdNME=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.freesquaregames.xsurvive",
+         "proUser": true,
+         "type": "154MB"
+		},
+		
+		{
+         "categories": [
+            "Action"
+         ],
+		 "id": "37",
+		 "favorited": false,
+         "lastUpdatedOn": 20201114,
+         "description": "Speed your way down the winding road in the most exciting extreme sport!",
+         "name": "Raw Runs",
+         "photo": "https://play-lh.googleusercontent.com/0MLUHvgbf93WnhvSWr0y_fLSx58Mr4e03_7EBwCM5XQMe3EopuvPnNTnQa3rqZX66Q=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.gmogp.rawruns",
+         "proUser": false,
+         "type": "93MB"
+		},
+		
+		{
+         "categories": [
+            "Adventure"
+         ],
+		 "id": "38",
+		 "favorited": false,
+         "lastUpdatedOn": 20201114,
+         "description": "The First Tree is a third-person exploration game centered around two parallel stories: a fox trying to find her missing family",
+         "name": "The First Tree",
+         "photo": "https://play-lh.googleusercontent.com/5sFuUzfYI11JxR9kEWUPeUwOLSuLOTNiPtbEh8iIWCboPkHHkHQZUOrmUrK7J1w7UPjl=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.davidwehle.thefirsttree",
+         "proUser": false,
+         "type": "Pre-Reigster"
+		},
+		{
+         "categories": [
+            "Sports"
+         ],
+		 "id": "39",
+		 "favorited": false,
+         "lastUpdatedOn": 20201114,
+         "description": "This sports game adopts the latest 4D picture quality, and the high-definition picture perfectly restores the ultra-real tennis arena",
+         "name": "Tennis Go : World Tour 3D",
+         "photo": "https://play-lh.googleusercontent.com/UDsG6XaSRMY1pnUmDgbUVeiiLTjhSfxn-P7KsiK3ejNKSfvMebl_FZxOD5nus_MljeE=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.apollo.tennis",
+         "proUser": false,
+         "type": "135MB"
+		},
+		{
+         "categories": [
+            "Action"
+         ],
+		 "id": "40",
+		 "favorited": false,
+         "lastUpdatedOn": 20201114,
+         "description": "TPS Shooting Wave Mode Prototyp",
+         "name": "Paragon: InfinityWave",
+         "photo": "https://play-lh.googleusercontent.com/xFFI-15yKPiVxMSBS4yyANk9JZCS4yL08DRSrWup_FShHpWUnZkQUuTGkrMDLokmyc6c=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.nuker.paragonwave",
+         "proUser": true,
+         "type": "0.95GB"
 		}
-	  
+		
 	  ]
 }
