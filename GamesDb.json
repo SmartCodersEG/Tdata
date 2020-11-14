@@ -1,5 +1,5 @@
 {
-   "version": "12",
+   "version": "13",
    "users": [
       {
          "categories": [
@@ -516,7 +516,7 @@
 		 "id": "36",
 		 "favorited": false,
          "lastUpdatedOn": 20201114,
-         "description": "",
+         "description": "Open world sandbox that features the utmost fun of crafting and building mechanic waiting for you",
          "name": "X Survive: Open World Building Sandbox",
          "photo": "https://play-lh.googleusercontent.com/4cBMSmbloeGZW5yjarI9nKtcZeayTilIa5bqgz6El0udvyE_HEOvX7frCe4Hr3TwdNME=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.freesquaregames.xsurvive",
