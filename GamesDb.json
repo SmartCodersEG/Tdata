@@ -1,5 +1,5 @@
 {
-   "version": "13",
+   "version": "14",
    "users": [
       {
          "categories": [
@@ -241,20 +241,7 @@
          "proUser": false,
          "type": "1.5GB"
 		},
-		 {
-         "categories": [
-            "Action"
-         ],
-		 "id": "18",
-		 "favorited": false,
-         "lastUpdatedOn": 2020119,
-         "description": "diversity of modern vehicles, dozens of armament types, crew members with unique talents, and battlefields you will remember",
-         "name": "Armored Warfare: Assault",
-         "photo": "https://play-lh.googleusercontent.com/GD6oybMLrVBvg_InOTtGoJ8UUmXXdPKpHfrCgYdbkOC4C71EC6x3oQmVnO8UiWlshWc=s180-rw",
-		 "linkUrl": "https://play.google.com/store/apps/details?id=com.my.awa",
-         "proUser": true,
-         "type": "882MB"
-		},
+		
 		 {
          "categories": [
             "Action"
