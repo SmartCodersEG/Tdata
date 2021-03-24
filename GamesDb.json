@@ -1,5 +1,5 @@
 {
-   "version": "17",
+   "version": "18",
    "users": [
       {
          "categories": [
@@ -206,8 +206,8 @@
 		 "favorited": false,
          "lastUpdatedOn": 2020116,
          "description": "You wake up in a small scary room. The only thing you remember is that someone injected a needle into your neck from behind",
-         "name": "The Longest Night Creepy House Escape",
-         "photo": "https://play-lh.googleusercontent.com/6pNLqMEUgsMSaxvJvlo2Gjt4pc-wfvYlxCUP0E1F7IlKKhvIIxBwWFbzqTEF-Z-ING4=s180-rw",
+         "name": "Longest Night:Serial Killer Jason Horrific Asylum",
+         "photo": "https://play-lh.googleusercontent.com/bc9SiH54YqwqbBRcMHxru3khShK0OmwN6WdNPuBJym0tvpASOmldE2qfa2c3GlnrAe8=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.AlienKing.LongestNightLite",
          "proUser": false,
          "type": "165MB"
