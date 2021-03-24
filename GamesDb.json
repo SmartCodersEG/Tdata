@@ -1,5 +1,5 @@
 {
-   "version": "15",
+   "version": "16",
    "users": [
       {
          "categories": [
@@ -67,7 +67,7 @@
          "lastUpdatedOn": 2020116,
          "description": "ourney through the zombie apocalypse in a race to save your family. Arm yourself with an arsenal of powerful weapons and do whatever it takes to survive",
          "name": "Into the Dead 2: Zombie Survival",
-         "photo": "https://play-lh.googleusercontent.com/pcBMZtfdXljUaw95XXNup_Mx6WMcbKyNvBZYtG33dF2CVYAqouETja5zn-pCUbc_Ow=s180-rw",
+         "photo": "https://play-lh.googleusercontent.com/0qejWLVZKTR2atLtzgj9VbOF4GsU-Y1E4lXVrk3QqwZnVZexeslndQE6xxZUzARMSg=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.pikpok.dr2.play",
          "proUser": true,
          "type": "1.4GB"
@@ -240,20 +240,6 @@
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.badflyinteractive.tauceti",
          "proUser": false,
          "type": "1.5GB"
-		},
-		 {
-         "categories": [
-            "Action"
-         ],
-		 "id": "18",
-		 "favorited": false,
-         "lastUpdatedOn": 2020119,
-         "description": "diversity of modern vehicles, dozens of armament types, crew members with unique talents, and battlefields you will remember",
-         "name": "Armored Warfare: Assault",
-         "photo": "https://play-lh.googleusercontent.com/GD6oybMLrVBvg_InOTtGoJ8UUmXXdPKpHfrCgYdbkOC4C71EC6x3oQmVnO8UiWlshWc=s180-rw",
-		 "linkUrl": "https://play.google.com/store/apps/details?id=com.my.awa",
-         "proUser": true,
-         "type": "882MB"
 		},
 		 {
          "categories": [
@@ -444,7 +430,7 @@
          "description": "From Bethesda Game Studios, the award-winning creators of Skyrim, comes The Elder Scrolls: Blades – a classic dungeon crawler reimagined",
          "name": "The Elder Scrolls: Blades",
          "photo": "https://play-lh.googleusercontent.com/MWDjjQwHHHEWz6qsW5yNOQEd4aKEAayJ2k0LmHu4RRDs4lV6VDSiAmYxRJCfyK_sHUc=s180-rw",
-		 "linkUrl": "https://play.google.com/store/apps/details?id=com.bethsoft.blad",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.bethsoft.blade",
          "proUser": false,
          "type": "89MB"
 		},
@@ -478,22 +464,6 @@
          "proUser": false,
          "type": "213MB"
 		},
-		
-		{
-         "categories": [
-            "Racing"
-         ],
-		 "id": "34",
-		 "favorited": false,
-         "lastUpdatedOn": 20201114,
-         "description": "Nightspeed is an arcade racing game featuring a procedural track generation, so every race is differen",
-         "name": "Nightspeed (BETA)",
-         "photo": "https://play-lh.googleusercontent.com/Z0svg5GVrC9YRp_-1HHevEXUjrc8xbb1N2eHOfxxfm36PRsUF9htDpDTOnetbNJLYe8=s180-rw",
-		 "linkUrl": "https://play.google.com/store/apps/details?id=com.MontefanoStudio.Nightspeed",
-         "proUser": true,
-         "type": "45MB"
-		},
-		
 		{
          "categories": [
             "Simulation"
@@ -518,7 +488,7 @@
          "lastUpdatedOn": 20201114,
          "description": "",
          "name": "X Survive: Open World Building Sandbox",
-         "photo": "https://play-lh.googleusercontent.com/4cBMSmbloeGZW5yjarI9nKtcZeayTilIa5bqgz6El0udvyE_HEOvX7frCe4Hr3TwdNME=s180-rw",
+         "photo": "https://play-lh.googleusercontent.com/ebLxnaWfK1xGCOq828oi-lP_-PD0dSeZk_b8yuxugIEXuesnv215J3vajoRD7KXCW6s=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.freesquaregames.xsurvive",
          "proUser": true,
          "type": "154MB"
