@@ -1,5 +1,5 @@
 {
-   "version": "44",
+   "version": "45",
    "users": [
       {
          "categories": [
@@ -725,7 +725,7 @@
          "name": "Hello Neighbor",
 		 "description": "Hello Neighbor is a stealth horror game about sneaking into your neighbor's house to figure out what horrible secrets he's hiding in the basement",
          "photo": "https://play-lh.googleusercontent.com/aDX4QRdSBmlOTeWAsS5NbKcggupZ6_RSUzz7kLyIY91RChNDvEv26Czcqb-1rgt6FeE=s180-rw",
-		 "https://play.google.com/store/apps/details?id=com.tinybuildgames.helloneighbor",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.tinybuildgames.helloneighbor",
          "proUser": true,
          "type": "1.2GB"
 		},
@@ -744,5 +744,20 @@
          "proUser": true,
          "type": "435MB"
 		},
+	   
+	   {
+         "categories": [
+            "Multiplayer"
+         ],
+		 "id": "54",
+		 "favorited": false,
+         "lastUpdatedOn": 2021324,
+         "name": "Ghosts of War: WW2 Shooting game Army D-Day",
+		 "description": "Second World War shooter. Choose your side. Prepare your weapons and hurry up to the battle",
+         "photo": "https://play-lh.googleusercontent.com/XhxhFMp__GTOENesHTOSkaka-NXogmDka7yArzGyqelbA0WBHrGSatEaolzSP7nIGic=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.extremedevelopers.ghostsofwar",
+         "proUser": true,
+         "type": "823MB"
+		}
 	  ]
 }
