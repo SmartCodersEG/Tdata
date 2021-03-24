@@ -1,5 +1,5 @@
 {
-   "version": "45",
+   "version": "46",
    "users": [
       {
          "categories": [
@@ -758,6 +758,21 @@
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.extremedevelopers.ghostsofwar",
          "proUser": true,
          "type": "823MB"
+		},
+	   
+	    {
+         "categories": [
+            "Adventure"
+         ],
+		 "id": "55",
+		 "favorited": false,
+         "lastUpdatedOn": 2021324,
+         "name": "Rayman Adventures",
+		 "description": "The enchanted forest is in trouble - the Ancient Eggs that sustain the Sacred Tree have been stolen and scattered across the world",
+         "photo": "https://play-lh.googleusercontent.com/tnHtPM_xOZlmmENJd_2YvE9VCZ8YxJ7EdCVFze9shvOYir4u-ALdIVrYMfnreybGf70=s180-rw",
+		 "linkUrl": "https://play.google.com/store/apps/details?id=com.ubisoft.raymanadventures",
+         "proUser": true,
+         "type": "32MB for apk"
 		}
 	  ]
 }
