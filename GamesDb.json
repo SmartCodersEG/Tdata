@@ -1,5 +1,5 @@
 {
-   "version": "47",
+   "version": "50",
    "users": [
       {
          "categories": [
@@ -760,7 +760,6 @@
          "proUser": true,
          "type": "32MB for apk"
 		},
-	   /////
 	   
 	   {
          "categories": [
