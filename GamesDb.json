@@ -1,5 +1,5 @@
 {
-   "version": "50",
+   "version": "51",
    "users": [
       {
          "categories": [
@@ -120,13 +120,13 @@
          ],
 		 "id": "9",
 		 "favorited": false,
-         "lastUpdatedOn": 2020116,
+         "lastUpdatedOn": 2021422,
          "description": "A blizzard of devastating virus beleaguered the world, bringing about the catastrophic disintegration of orders and covenants",
          "name": "LifeAfter",
-         "photo": "https://play-lh.googleusercontent.com/weju3k4GoZeSnILLw4KbkXMUrh5g5xHoKHsmCT_u1bUJQroHSAk88R-xhC_9WBYh9ZeK=s180-rw",
+         "photo": "https://play-lh.googleusercontent.com/cXqh_5BH2N-0QbQv4B5R6d02hcrUJ-Fpj-poO1uihuIANjsAxIgXa9vhIHwbFpS-SKc=s180-rw",
 		 "linkUrl": "https://play.google.com/store/apps/details?id=com.netease.mrzhna",
          "proUser": false,
-         "type": "3.6GB"
+         "type": "2.5GB"
       },
 	  {
          "categories": [
