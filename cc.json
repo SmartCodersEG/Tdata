@@ -1,9 +1,7 @@
 {
-  "latestVersion": "3",
-  "url": "https://github.com/charmeryl/AppUpdater/releases-v1.0.1.apk",
-  "releaseNotes": [
-    "- Fix minor bugs",
-    "- UI optimaization",
-    "- Import translations"
-  ]
+  "versionCode":1,
+  "versionName":"1.0.0",
+  "content":"1.add something#2.add something",//use # to wrap
+  "minSupport":1,	//min support version. while your app versionCode less than  minSupport,You must update app
+  "url":"apk download url"
 }
