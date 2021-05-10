@@ -1,10 +1,9 @@
-{
-  "latestVersion": "1.2.2",
-  "latestVersionCode": 10,
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
-  "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
-  ]
+{ 
+	"versionCode" : 10 , 
+	"versionName" : "1.0.0" , 
+	"fileSize" : "35.93M" , 
+	"apkUrl" : "http://www.lofter.com/rsc/android/lofter.apk" , 
+	"required" : false , 
+	"releaseDate" : "2017-02-12 12:45:20" , 
+	"releaseNotes" : [ "New version features, new version features, new version features;" ,  "Describe version information, so users can choose whether Download the update now;" ,  "Performance optimization and BUG repair." ] 
 }
