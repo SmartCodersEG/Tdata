@@ -1,5 +1,5 @@
 {
-   "version":"21",
+   "version":"22",
    "users":[
       {
          "categories":[
@@ -26,7 +26,7 @@
          "description":"Full moded and unlocked •no ads •all premium collections free",
          "photo":"https://play-lh.googleusercontent.com/wXcXdYcdqg96kzU9_UY5ORlrTaNM3dtCkFy-r7d5mEhwsWgJK4Z5LHL9EWzpNyOnW2Q=s180-rw",
          "linkUrl":"https://drive.google.com/file/d/115GAuj2aTM0casoWisWcf143I0VuCGx0/view?usp=sharing",
-         "proUser":false,
+         "proUser":true,
          "type":"1.0"
       },
       
@@ -41,7 +41,7 @@
          "description":"Full moded and unlocked •no ads •all premium collections free",
          "photo":"https://play-lh.googleusercontent.com/Hh5x8bzPYhSXxZzNnlbsg-2x17QKEOqv9QhIDyGH-M8XVHusApQRh2-h-UG80hUwTJE=s180-rw",
          "linkUrl":"https://drive.google.com/file/d/11CDTMXPa7BLb-jSu5RT4--LOkO4HM1w7/view?usp=sharing",
-         "proUser":false,
+         "proUser":true,
          "type":"1.0.0"
       },
       
