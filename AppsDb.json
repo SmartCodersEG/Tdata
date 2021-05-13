@@ -1,0 +1,33 @@
+{
+   "version":"1",
+   "users":[
+      {
+         "categories":[
+            "Sports"
+         ],
+         "id":"1",
+         "favorited":false,
+         "lastUpdatedOn":2021428,
+         "description":"Play the award-winning hit soccer manager game Top Eleven 2020 and enjoy the brand new features",
+         "name":"Top Eleven 2020 - Be a soccer manager",
+         "photo":"https://play-lh.googleusercontent.com/BCzT2vm2bUfSduGO0KQOcOQ0EPpc7lwLV7w7x_jYcXXZLO4I8SiNjnMc6T6oVh4mPQ=s180-rw",
+         "linkUrl":"https://drive.google.com/drive/folders/1JzfXxdlG4gLMX2akc3i4LEVI-_tlH--5?usp=sharing",
+         "proUser":false,
+         "type":"98MB"
+      },
+      {
+         "categories":[
+            "Action"
+         ],
+         "id":"58",
+         "favorited":false,
+         "lastUpdatedOn":2021428,
+         "name":"Aliens Drive Me Crazy",
+         "description":"Take control of your car and blast your way through the city to reach an alien's base!",
+         "photo":"https://play-lh.googleusercontent.com/rFegsjjaT6K5oG14n8MN1SYLmYmaoSLEWovg_ylqpd3lPD2rAFaVOLgzDvkW9x8HqCg=s180-rw",
+         "linkUrl":"https://play.google.com/store/apps/details?id=com.rebeltwins.aliensdrivemecrazy",
+         "proUser":false,
+         "type":"63MB"
+      }
+   ]
+}
