@@ -1,5 +1,5 @@
 {
-   "version":"2",
+   "version":"4",
    "users":[
       {
          "categories":[
@@ -12,7 +12,7 @@
          "name":"Adobe Photoshop Express",
          "photo":"https://play-lh.googleusercontent.com/AnFR9tT5PYNeh4hfX8_QChr_jOe5MVArmja3sKf2AHyvAhrHup2Fd_rVbz1Gerw3r8k=s180-rw",
          "linkUrl":"https://drive.google.com/drive/folders/1JzfXxdlG4gLMX2akc3i4LEVI-_tlH--5?usp=sharing",
-         "proUser":false,
+         "proUser":true,
          "type":"14.2.2021"
       },
       {
@@ -26,7 +26,7 @@
          "description":"PicsArt is the best all-in-one photo and video editor on mobile! Unleash your creativity with one of the most popular apps with over 1 billion downloads to date",
          "photo":"https://play-lh.googleusercontent.com/TEM_bpkTaIdHqpxSZrsmJs0nc0M4zDmspHTxwH3W0U9A9CyOTaY2nuPhm_PeKC63kZc=s180-rw",
          "linkUrl":"https://play.google.com/store/apps/details?id=com.picsart.studio",
-         "proUser":false,
+         "proUser":true,
          "type":"16.3.2021"
       }
    ]
