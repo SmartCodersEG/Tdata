@@ -1,5 +1,5 @@
 {
-   "version":"6",
+   "version":"7",
    "users":[
       {
          "categories":[
@@ -19,7 +19,7 @@
          "categories":[
             "Wallpapers"
          ],
-         "id":"58",
+         "id":"2",
          "favorited":false,
          "lastUpdatedOn":2021513,
          "name":"Wallsy - Hd Wallpapers",
@@ -28,6 +28,22 @@
          "linkUrl":"https://drive.google.com/file/d/115GAuj2aTM0casoWisWcf143I0VuCGx0/view?usp=sharing",
          "proUser":false,
          "type":"1.0"
+      },
+      
+       {
+         "categories":[
+            "Wallpapers"
+         ],
+         "id":"3",
+         "favorited":false,
+         "lastUpdatedOn":2021513,
+         "name":"Wallpin, 4K Wallpapers",
+         "description":"Full moded and unlocked •no ads •all premium collections free",
+         "photo":"https://play-lh.googleusercontent.com/Hh5x8bzPYhSXxZzNnlbsg-2x17QKEOqv9QhIDyGH-M8XVHusApQRh2-h-UG80hUwTJE=s180-rw",
+         "linkUrl":"https://drive.google.com/file/d/11CDTMXPa7BLb-jSu5RT4--LOkO4HM1w7/view?usp=sharing",
+         "proUser":false,
+         "type":"1.0.0"
       }
+      
    ]
 }
