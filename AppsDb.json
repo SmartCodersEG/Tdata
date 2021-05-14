@@ -1,5 +1,5 @@
 {
-   "version":"29",
+   "version":"30",
    "users":[
       {
          "categories":[
@@ -12,7 +12,7 @@
          "name":"WalliPop Wallpapers",
          "photo":"https://play-lh.googleusercontent.com/Fab9dPYFswHSdiJPBCN6TE-E4cvznV9x26L6_RT1piCaZhzVKHw8tzGHYL--Xn67wtw=s180-rw",
          "linkUrl":"https://drive.google.com/file/d/110jGPJShod9mGP0L7cA-2h74IGl26Aym/view?usp=sharing",
-         "proUser":true,
+         "proUser":false,
          "type":"3.0.0"
       },
       {
