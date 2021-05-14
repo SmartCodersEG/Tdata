@@ -1,5 +1,5 @@
 {
-   "version":"24",
+   "version":"25",
    "users":[
       {
          "categories":[
@@ -118,6 +118,21 @@
          "linkUrl":"https://drive.google.com/file/d/11vJNZoGezUVhcx87Yf5lJ3UBjayLOWOL/view?usp=sharing",
          "proUser":true,
          "type":"8.6.12"
+      },
+      
+       {
+         "categories":[
+            "Music & Audio"
+         ],
+         "id":"9",
+         "favorited":false,
+         "lastUpdatedOn":2021513,
+         "name":"Deezer - Premium",
+         "description":"Unlocked premium content •no ads •unlocked repeat mode •unlimited skips •login feature working only phone number or email •listen 320Kps music •unlocked all main pro features •offline mode working",
+         "photo":"https://play-lh.googleusercontent.com/JVcuivp0FTuWK-4uLmq8bvPwNpesCxETc-BK2ltAbThztWN2ZGpvgP_WrcmyaOHSsHo=s180-rw",
+         "linkUrl":"https://drive.google.com/file/d/12IdHFD7SdNmMv2M-yoGbZoA5FyjNvnG8/view?usp=sharing",
+         "proUser":true,
+         "type":"6.2.25"
       }
       
    ]
