@@ -1,5 +1,5 @@
 {
-   "version":"25",
+   "version":"26",
    "users":[
       {
          "categories":[
@@ -133,6 +133,36 @@
          "linkUrl":"https://drive.google.com/file/d/12IdHFD7SdNmMv2M-yoGbZoA5FyjNvnG8/view?usp=sharing",
          "proUser":true,
          "type":"6.2.25"
+      },
+      
+       {
+         "categories":[
+            "Montag & Video Editing"
+         ],
+         "id":"10",
+         "favorited":false,
+         "lastUpdatedOn":2021513,
+         "name":"VivaCut - Pro",
+         "description":"Unlocked premium content •no ads •download without water mark •4k videos •all packs and resources free",
+         "photo":"https://play-lh.googleusercontent.com/9N7gKmWm0kDFYtCKFx8gri2ai6LFdyIT1Ns91PahMqOKb_oL50yDutB1rnY_kXgsC2w=s180-rw",
+         "linkUrl":"https://drive.google.com/file/d/12LPvDBTy0M9iQUJkJhZYdWjW9TzYnyHa/view?usp=sharing",
+         "proUser":true,
+         "type":"2.2.9"
+      },
+      
+       {
+         "categories":[
+            "Montag & Video Editing"
+         ],
+         "id":"11",
+         "favorited":false,
+         "lastUpdatedOn":2021513,
+         "name":"CapCut - Pro",
+         "description":"Unlocked premium content •no ads •download without water mark •4k videos •all packs and resources free",
+         "photo":"https://play-lh.googleusercontent.com/GCeBKSeyXZaICkBU6xXmK9qnlVPCcXfaF_OsWEx6zUYtwvI1Sb0CPtp2fsqmcImw9BQ=s180-rw",
+         "linkUrl":"https://drive.google.com/file/d/12NkFYgJ5Q8lvRm_mE4jP25r1zWlpIlAS/view?usp=sharing",
+         "proUser":true,
+         "type":"3.3.0"
       }
       
    ]
