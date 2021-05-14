@@ -1,5 +1,5 @@
 {
-   "version":"22",
+   "version":"23",
    "users":[
       {
          "categories":[
@@ -88,6 +88,21 @@
          "linkUrl":"https://drive.google.com/file/d/11_Ozezji6jvDKmWPCqO4vrhL1UCVocLM/view?usp=sharing",
          "proUser":true,
          "type":"7.7.4 Beta"
+      },
+      
+         {
+         "categories":[
+            "Music & Audio"
+         ],
+         "id":"7",
+         "favorited":false,
+         "lastUpdatedOn":2021513,
+         "name":"Anghami - Premium",
+         "description":"Full Premium unlocked •no ads •all premium content free •unlimited skips •login feature working •unlimited playlists •download feature not working",
+         "photo":"https://play-lh.googleusercontent.com/-iToRivxAALzF1GXI99ngj_1WQMrJkbiFePz6ZQUZEIvzwPCVtNFTtISYa6ZKbRblw=s180-rw",
+         "linkUrl":"https://drive.google.com/file/d/11mqBMCNohnRVQzq-2rKWjnzpKBBnLraK/view?usp=sharing",
+         "proUser":true,
+         "type":"5.9.35"
       }
       
    ]
