@@ -1,5 +1,5 @@
 {
-   "version":"33",
+   "version":"34",
    "users":[
       {
          "categories":[
@@ -193,6 +193,20 @@
          "linkUrl":"https://drive.google.com/file/d/12Z9mqQIfC50YYK14OKX3wvFTh4QZj4zF/view?usp=sharing",
          "proUser":true,
          "type":"4.1.4"
+      },
+      {
+         "categories":[
+            "Montag & Video Editing"
+         ],
+         "id":"11",
+         "favorited":false,
+         "lastUpdatedOn":2021520,
+         "name":"KineMaster",
+         "description":"Unlocked premium content •no ads •download without water mark •4k videos •all packs and resources free",
+         "photo":"https://play-lh.googleusercontent.com/as8XbbYo2kTtHC4SNQPw1GAsJIGSlpctPncaCBeo-p5zE0tJstqRV_kbBzHWv4R1_u3N=s180-rw",
+         "linkUrl":"https://drive.google.com/file/d/13WCMX9pkTtXgmfWsx4CRQz9slbx06KF7/view?usp=sharing",
+         "proUser":true,
+         "type":"5.0.1"
       }
       
    ]
