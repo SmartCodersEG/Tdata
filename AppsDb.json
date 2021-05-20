@@ -1,5 +1,5 @@
 {
-   "version":"38",
+   "version":"39",
    "users":[
       {
          "categories":[
@@ -235,7 +235,7 @@
          "linkUrl":"https://drive.google.com/file/d/13sl0BOUKYdTR58RCT8195V0aWVnUFfxi/view?usp=sharing",
          "proUser":true,
          "type":"3.7.1"
-      },
+      }
       
    ]
 }
