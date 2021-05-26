@@ -1,8 +1,16 @@
 [
 
 	{
-		"appIcon": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/news.webp",
-		"appDescription": "نرجوا منكم التزام الاداب العامه حرصا على مجتمعنا",
-		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
-	}
+		"appCover": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/game.webp",
+		"appTitle": "na",
+		"appRating": "na",
+		"appSize": "na",
+		"appCategory": "na",
+		"appBtnText": "na",
+		
+		"appIconStr": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/game.webp",
+		"appDescription": "To create an Android button rounded corners have to use a new XML file. This new XML file will be inside a drawable folder. To change the corners of all sides of the button need only one attribute in the drawable XML file",
+		"btnColor": "#E3D4FF",
+		"url": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/game.webp"
+	 }
 ]
