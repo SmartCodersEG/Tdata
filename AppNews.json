@@ -6,7 +6,8 @@
 		"appSize": "na",
 		"appCategory": "na",
 		"appBtnText": "na",
-		
+				"appCover": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/game.webp",
+
 		"appIconStr": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/game.webp",
 		"appDescription": "نتمني ان تستمتعوا معنا و نرجوا احترام بعضنا البعض حرصا على بيئة الدردشه الاخلاقيه",
 		"btnColor": "#FF9800",
