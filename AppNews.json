@@ -12,5 +12,19 @@
 		"appDescription": "نتمني ان تستمتعوا معنا و نرجوا احترام بعضنا البعض حرصا على بيئة الدردشه الاخلاقيه",
 		"btnColor": "#009688",
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/game.webp"
+	 },
+	
+	{
+		"appTitle": "na",
+		"appRating": "na",
+		"appSize": "na",
+		"appCategory": "na",
+		"appBtnText": "na",
+				"https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/news.webp",
+
+		"appIconStr": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/news.webp",
+		"appDescription": "كافة الخدمات الإبداعية والاحترافية لتطوير وتنمية أعمالك",
+		"btnColor": "#9C27B0",
+		"url": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/game.webp"
 	 }
 ]
