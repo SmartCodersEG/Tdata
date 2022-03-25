@@ -5,13 +5,13 @@
 		"appRating": "na",
 		"appSize": "na",
 		"appCategory": "na",
-		"appBtnText": "View More",
+		"appBtnText": "متابعه",
 				"appCover": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/tiktok.webp",
 
 		"appIconStr": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/tiktok.webp",
-		"appDescription": "نتمني ان تستمتعوا معنا و نرجوا احترام بعضنا البعض حرصا على بيئة الدردشه الاخلاقيه",
-		"btnColor": "#871BF8",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/game.webp"
+		"appDescription": "تابعنا على تيكتوك و حمل اجمل حالات الواتساب الحصريه لاجدد الاغاني العربيه مجانا",
+		"btnColor": "#272727",
+		"url": "https://tiktok.com/@tweeta.ar"
 	 },
 
 	{
@@ -19,12 +19,12 @@
 		"appRating": "na",
 		"appSize": "na",
 		"appCategory": "na",
-		"appBtnText": "Install",
-				"appCover": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/news.webp",
+		"appBtnText": "تواصل",
+				"appCover": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/ig.webp",
 
-		"appIconStr": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/news.webp",
-		"appDescription": "كافة الخدمات الإبداعية والاحترافية لتطوير وتنمية أعمالك",
-		"btnColor": "#F81B79",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/game.webp"
+		"appIconStr": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/ig.webp",
+		"appDescription": "اذا وجاهت اى مشكله او لديك اى اقتارح تواصل معنا على انستاجرام من فضلك",
+		"btnColor": "#f46f30",
+		"url": "https://instagram.com/mo.6b"
 	 }
 ]
